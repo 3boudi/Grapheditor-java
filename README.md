@@ -2,7 +2,7 @@
 
 ✨ A fun Java drawing app for creating amazing shapes and designs! ✨
 
-![Modern Graph Editor Screenshot](Screenshot_2025-05-05_093614.png)
+![Modern Graph Editor Screenshot](graph.png)
 
 ## ✅ Features
 
