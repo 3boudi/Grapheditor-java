@@ -2,7 +2,7 @@
 
 A modern, Java Swing-based vector drawing application for creating and manipulating geometric shapes.
 
-![GraphEditor Interface](`Screenshot 2025-05-05 093614.png`)
+![GraphEditor Interface](screenshots/grapheditor_interface.png)
 
 ## Overview
 
